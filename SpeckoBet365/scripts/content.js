@@ -15,3 +15,12 @@ function openLiveMatch() {
 function canBetOnCorner() {
     return true;
 }
+
+function getActualMatchTime() {
+    
+}
+
+function getActualNumberOfCorners() {
+    
+}
+
